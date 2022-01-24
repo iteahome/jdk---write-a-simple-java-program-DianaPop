@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b4b40eb5-2f87-4001-a988-d80fa5246a3d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jdk---write-a-simple-java-program-DiaViore.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello World" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/helloWorld.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdk---write-a-simple-java-program-DiaViore.iml" beforeDir="false" />
-    </list>
+    <list default="true" id="b4b40eb5-2f87-4001-a988-d80fa5246a3d" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
